@@ -1,0 +1,45 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(233,156,201,1.00) 40%,rgba(201,9,120,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(233,156,201,1.00) 40%,rgba(201,9,120,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(233,156,201,1.00) 40%,rgba(201,9,120,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(233,156,201,1.00) 40.00%,rgba(201,9,120,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(91,27,187,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(91,27,187,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(91,27,187,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(91,27,187,1.00) 0%,rgba(255,0,0,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #EECACB;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-image: -webkit-linear-gradient(270deg,rgba(125,47,203,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(125,47,203,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(125,47,203,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(125,47,203,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    color: #98CAD0;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #36C7A4;
+    color: #D7CDCD;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #36C7A4;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #36C7A4;
+}
+#headingOne1 .mb-0 a {
+    color: #6D7895;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #6D7895;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #6D7895;
+}
+.container-fluid .container footer {
+    color: #F5F8F6;
+}
